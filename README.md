@@ -1,28 +1,28 @@
-#HeartBeats
+# HeartBeats
 Source code for an iOS app to draw heart beats by reading color changes using the device flash led and CoreGraphics.
 
-###Example
+### Example
 
 ![Alt text](https://raw.github.com/chroman/HeartBeats/master/demo.png "Demo")
 
-#Introduction
+# Introduction
   - Experimental project
 
-#Version
+# Version
 1.0
 
-##Improvements
+## Improvements
 * Measure Heart Rate
 
-##Supports
+## Supports
 * iOS 6.0 or later.
 * Xcode 4.6 (ARC enabled).
 * Required frameworks: UIKit, AVFoundation and CoreGraphics.
 
-#Contact
+# Contact
 <a href="https://twitter.com/chroman">Follow @chroman</a>
 
-#License
+# License
 
 Copyright (c) 2013 Christian Roman, Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
 
